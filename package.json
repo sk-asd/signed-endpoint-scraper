@@ -1,0 +1,11 @@
+{
+  "name": "signed-endpoint-scraper",
+  "version": "1.0.0",
+  "description": "Demo: solving a signed + fingerprint-gated endpoint",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js",
+    "run": "node solver.js"
+  },
+  "license": "MIT"
+}
